@@ -1,3 +1,7 @@
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile+✨;Coding+%7C+Learning+%7C+Building;Turning+Ideas+into+Code+🚀" />
+</h1>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:2C2C2C,100:8B7355&height=220&section=header&text=Aastha%20Dua&fontSize=55&fontColor=ffffff)
 
 ## 👩‍💻 About Me
