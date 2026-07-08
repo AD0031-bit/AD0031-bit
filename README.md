@@ -1,10 +1,4 @@
-<div align="center">
-
-<h1 style="background-color:#1f2937; color:light blue; padding:20px;">
-Hi 👋, I'm Aastha Dua
-</h1>
-
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Aastha%20Dua&fontSize=50&fontColor=ffffff)
 
 # 👋 About Me
 
