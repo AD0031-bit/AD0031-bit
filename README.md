@@ -1,14 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:2C2C2C,100:8B7355&height=220&section=header&text=Aastha%20Dua&fontSize=55&fontColor=ffffff)
 
-# 👋 About Me
+## 👩‍💻 About Me
 
-I'm a Computer Science student passionate about solving problems using
-Data Structures & Algorithms.
-
-🌱 Currently learning:
-- MERN Stack
-- System Design
-- Open Source
+- 🎓 B.Tech Computer Science Engineering student at JIIT Noida
+- 💻 Passionate about Software Development and Problem Solving
+- 🧠 Currently focusing on Data Structures & Algorithms
+- 🌱 Exploring Web Development and Open Source
+- ⚡ Love building projects and learning new technologies
 
 
 
