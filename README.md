@@ -30,3 +30,11 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AD0031-bit&theme=github-dark" />
 </p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="(https://www.linkedin.com/in/aastha-dua-405882379/)">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+</p>
