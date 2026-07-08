@@ -10,7 +10,7 @@ Data Structures & Algorithms.
 - System Design
 - Open Source
 
-## 🚀 Tech Stack
+
 
 ## 🛠️ Tech Stack
 
