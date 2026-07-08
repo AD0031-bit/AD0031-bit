@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Aastha%20Dua&fontSize=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2C2C2C,100:8B7355&height=220&section=header&text=Aastha%20Dua&fontSize=55&fontColor=ffffff)
 
 # 👋 About Me
 
