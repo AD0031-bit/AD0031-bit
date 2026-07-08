@@ -25,8 +25,8 @@
 - 🚀 Continuously building projects and improving problem-solving skills
 
 
-## 🐍 My Contributions
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AD0031-bit/AD0031-bit/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AD0031-bit&theme=github-dark" />
 </p>
