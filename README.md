@@ -16,13 +16,19 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,git,github,mysql,qt" />
 </p>
 
-## 🏅 Achievements
 
-✨ Highlights of my journey:
 
-- 🥇 Ranked **5th in CodeChef Gold League**
-- 💡 Passionate Competitive Programmer
-- 🚀 Continuously building projects and improving problem-solving skills
+## 🏆 Achievements
+
+- 🥇 Active competitive programmer solving problems across coding platforms
+- 🔥 Maintained consistent coding streaks and regular practice
+- 💻 Solved problems involving Data Structures & Algorithms
+- 🏅 Ranked in CodeChef contests and participated in competitive programming challenges
+- 📚 Completed DSA learning paths and continuously improving problem-solving skills
+- 🌱 Participating in open-source programs and developer communities
+- 🚀 Built and maintained multiple personal projects on GitHub
+- 🧩 Strengthened skills in algorithms, problem solving, and software development
+- 🛠️ Exploring new technologies through hands-on projects
 
 
 ## 📈 Contribution Graph
@@ -31,7 +37,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AD0031-bit&theme=github-dark" />
 </p>
 
-## 🤝 Connect With Me
+
 
 ## 🤝 Connect With Me
 
