@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aastha</h1>
+<div align="center">
 
-<h3 align="center">C++ | DSA | Full Stack Learner</h3>
+<h1 style="background-color:#1f2937; color:light blue; padding:20px;">
+Hi 👋, I'm Aastha Dua
+</h1>
 
-<p align="center">
-💻 • 🚀 • 🌍 • ❤️
-</p>
-
+</div>
+<div align="center">
 # 👋 About Me
 
 I'm a Computer Science student passionate about solving problems using
@@ -34,12 +34,6 @@ Data Structures & Algorithms.
 
 - 🥇 Ranked **5th in CodeChef Gold League**
 - 💡 Passionate Competitive Programmer
-- 🚀 Continuously building projects and improving problem-solving skills
+- 🚀 Continuously building projects and improving problem-solving skills </div>
 
-## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AD0031-bit&show_icons=true&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AD0031-bit&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AD0031-bit&layout=compact&theme=tokyonight)
