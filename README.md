@@ -22,6 +22,12 @@
 
 - 🥇 Ranked **5th in CodeChef Gold League**
 - 💡 Passionate Competitive Programmer
-- 🚀 Continuously building projects and improving problem-solving skills 
+- 🚀 Continuously building projects and improving problem-solving skills
+
+  ## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=AD0031-bit&theme=dark"/>
+</p>
 
 
