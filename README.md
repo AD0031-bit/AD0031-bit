@@ -5,7 +5,7 @@ Hi 👋, I'm Aastha Dua
 </h1>
 
 </div>
-<div align="center">
+
 # 👋 About Me
 
 I'm a Computer Science student passionate about solving problems using
@@ -34,6 +34,6 @@ Data Structures & Algorithms.
 
 - 🥇 Ranked **5th in CodeChef Gold League**
 - 💡 Passionate Competitive Programmer
-- 🚀 Continuously building projects and improving problem-solving skills </div>
+- 🚀 Continuously building projects and improving problem-solving skills 
 
 
