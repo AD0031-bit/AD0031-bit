@@ -33,8 +33,13 @@
 
 ## 🤝 Connect With Me
 
+## 🤝 Connect With Me
+
 <p align="center">
-<a href="(https://www.linkedin.com/in/aastha-dua-405882379/)">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+  <a href="https://www.linkedin.com/in/aastha-dua-405882379/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/AD0031-bit">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
