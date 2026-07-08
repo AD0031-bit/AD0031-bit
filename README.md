@@ -24,10 +24,9 @@
 - 💡 Passionate Competitive Programmer
 - 🚀 Continuously building projects and improving problem-solving skills
 
-  ## 🔥 GitHub Streak
+
+## 🐍 My Contributions
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=AD0031-bit&theme=dark"/>
+  <img src="https://raw.githubusercontent.com/AD0031-bit/AD0031-bit/output/github-contribution-grid-snake.svg" />
 </p>
-
-
