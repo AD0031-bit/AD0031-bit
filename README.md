@@ -35,11 +35,11 @@
 - 🛠️ Exploring new technologies through hands-on projects
 
 
-## 📈 Contribution Graph
+<!--## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AD0031-bit&theme=github-dark" />
-</p>
+</p>*/-->
 
 
 
